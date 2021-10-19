@@ -1,0 +1,14 @@
+Készítsétek el a HTML kódját az Egészséges táplálkozás c. PDF dokumentum kinézetét figyelembe véve. 
+Használd az alábbi TAG-eket:
+h1-h6, p, a, img...
+
+A szükséges linkek, amiket be kell szúrni a megfelelő helyekre:
+
+kép1:
+<img src="https://www.superfitt.hu/wp-content/uploads/2021/02/egeszseges-taplalkozas.jpg" alt="kaja">
+
+link:
+<a href="https://www.superfitt.hu/szivinfarktus-szivroham-jelei-tunetei/">szívbetegségek</a>
+
+kép2:
+<img src="https://www.superfitt.hu/wp-content/uploads/2021/02/egeszseges-taplalkozas-dieta.jpg" alt="szemét kaja">
